@@ -1,0 +1,9 @@
+{
+  "name": "rp-city"
+  "displayName": "RP City"
+  "author": koctz34
+  "description": "Изменяет текстуры предметов для рп города."
+  "version": "1.0"
+  "minGameVersion": "136"
+  "hidden": "true"  
+}
